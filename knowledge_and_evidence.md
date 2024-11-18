@@ -96,7 +96,7 @@ Address the following tasks and questions based on the code provided in this rep
 ![main.py_output](.\docs\images\Q2.1_main.py_output.png)
 
 * Project directory evidence:
-![project_directory](.\docs\images\Q2.1_project_directory.png)
+![project_directory](./docs/images/Q2.1_project_directory.png)
 
 If you are running on a Raspberry Pi, you can use the following command to run the project and then screenshot the result:
 
